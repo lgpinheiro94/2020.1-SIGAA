@@ -1,0 +1,14 @@
+site_name: SIGAA
+pages:
+  - Home: 'index.md'
+  - Planejamento: 'planejamento/planejamento.md'
+  - Avaliação Heurística: 'avaliacao-heuristica/avaliacao.md'
+  - Metas de Usabilidade: 'metas-de-usabilidade/metas.md'
+extra_css: 
+  - assets/css/extra.css
+theme:
+  name: material
+  language: pt
+
+repo_name: 'Repositório'
+repo_url: 'https://github.com/Interacao-Humano-Computador/2020.1-SIGAA'
