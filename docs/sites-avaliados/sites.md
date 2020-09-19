@@ -33,6 +33,9 @@ O usuário do sistema de transporte público do Distrito Federal tem à disposi�
 
 <p align="justify"> De acordo com  os critérios de avaliação heurísticas de Nielsen,  todos os sites apresentaram oportunidades de melhoria em vários aspectos. Porém, é reportado frequentemente por usuários do sistema, problemas de usabilidade. Além disso, a equipe usa frequentemente o sistema, o que permite acesso as necessidades dos usuários como um todo. Portanto, o site escolhido foi o SIGAA.</p>
 
+### **Nota Legal**
+
+<p align="justify">A Nota Legal DF é um programa de incentivo ao consumidor que exigir seu CPF na nota quando pagar por compras de produtos e serviços. O programa disponibiliza ao consumidor até 30% do valor pago em ICMS e ISS em suas compras de volta, como forma de créditos. Tais créditos poderão ser resgatados em sua conta bancária ou abatidos em impostos. Avaliado previamente, conta com diversos problemas de heurística. Os principais são: Status do sistema, compatibilidade do sistema com o mundo real e  design minimalista </p>
 
 
 ## **Histórico de revisões**
