@@ -25,10 +25,14 @@ O usuário do sistema de transporte público do Distrito Federal tem à disposi�
 <p align="justify"> SIGAA se insere no âmbito do Projeto SIG, cuja proposta é a transição dos sistemas da UnB para uma plataforma única, o SIG-UnB. Lá se encontram os principais módulos de gestão da Universidade: administração e comunicação (SIGAdmin), recursos humanos (SIGRH) e administrativo (SIPAC)." Utilizado pelos docentes e dicentes da Univerisade de Brasília. Avalido previamente, conta com alguns problemas de heurística. Os principais são: Compatibilidade do sistema com o mundo real, consistência e padrões,reconhecimento ao invés de lembrança, flexibilidade e eficiência de uso, e estética e design minimalista </p>
 
 
+### **SAE**
+
+<p align="justify"> O Projeto SAE é originário de pesquisas envolvendo professores e estudantes de três instituições brasileiras de ensino superior (UCB, UFRGS e PUC-RS), que objetiva empregar recursos tecnológicos adequados a uma metodologia educacional coerente ao ensino-aprendizagem almejado, consistindo num projeto, naturalmente, multidisciplinar (Educação, Psicologia e Informática). Avaliado previamente, conta com alguns problemas de heurística. Os principais são: Status do sistema, compatibilidade do sistema com o mundo real, consistência  e padrões, flexibilidade e eficiência de uso  </p>
 
 ### **Escolha e justificativa**
 
 <p align="justify"> De acordo com  os critérios de avaliação heurísticas de Nielsen,  todos os sites apresentaram oportunidades de melhoria em vários aspectos. Porém, é reportado frequentemente por usuários do sistema, problemas de usabilidade. Além disso, a equipe usa frequentemente o sistema, o que permite acesso as necessidades dos usuários como um todo. Portanto, o site escolhido foi o SIGAA.</p>
+
 
 
 ## **Histórico de revisões**
