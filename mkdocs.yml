@@ -5,6 +5,8 @@ pages:
   - Avaliação Heurística: 'avaliacao-heuristica/avaliacao.md'
   - Metas de Usabilidade: 'metas-de-usabilidade/metas.md'
   - Lista de sites avaliados: 'sites-avaliados/sites.md' 
+  - Processo de Design: 'processo-de-design/processo.md'
+
 extra_css: 
   - assets/css/extra.css
 theme:
