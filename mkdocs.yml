@@ -3,6 +3,8 @@ pages:
   - Home: 'index.md'
   - Planejamento: 'planejamento/planejamento.md'
   - Avaliação Heurística: 'avaliacao-heuristica/avaliacao.md'
+  - Questionario: 'Questionario/questionario.md'
+  - Prototipo de Papel: 'Prototipo-de-Papel/prototipo_de_papel.md'
   - Metas de Usabilidade: 'metas-de-usabilidade/metas.md'
   - Lista de sites avaliados: 'sites-avaliados/sites.md' 
   - Processo de Design: 'processo-de-design/processo.md'
