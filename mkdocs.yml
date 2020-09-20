@@ -4,6 +4,10 @@ pages:
   - Planejamento: 'planejamento/planejamento.md'
   - Avaliação Heurística: 'avaliacao-heuristica/avaliacao.md'
   - Metas de Usabilidade: 'metas-de-usabilidade/metas.md'
+
+
+
+  - Processo de Design: 'processo-de-design/processo.md'
 extra_css: 
   - assets/css/extra.css
 theme:
