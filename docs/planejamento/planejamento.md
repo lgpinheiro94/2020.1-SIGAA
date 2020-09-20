@@ -47,4 +47,5 @@ Ferramentas utilizadas pelo time.
 Autor | Versão | Data(dd/mm/aaa) | Descrição 
 ---- | ----------- | ------ | ---------
 [Lucas Lopes Xavier](https://github.com/lucaslop) | 1.0 | 16/09/2020 | Criação do documento.
-[Wagner Martins](https://github.com/wagnermc506)  | 1.1 | 17/09/2020 | Adição da metodologia, heatmap e roadmap
+[Wagner Martins](https://github.com/wagnermc506)  | 1.1 | 17/09/2020 | Adição da metodologia, heatmap e roadmap.
+[Kalebe Lopes](https://github.com/KalebeLopes)    | 1.2 | 20/09/2020 | Adição das ferramentas utilizadas pelo time
