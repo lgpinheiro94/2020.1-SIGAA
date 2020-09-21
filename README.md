@@ -1,8 +1,8 @@
 # SIGAA
 
 <div align="center">
-  <a href = "">
-    <img src="/docs/assets/sigaa.png" width="500px"/>
+  <a href = "https://github.com/Interacao-Humano-Computador/2020.1-SIGAA">
+    <img src="/docs/assets/sigaa.png" width="800px"/>
   </a>
 </div>
   
@@ -20,7 +20,7 @@
 
 ## Equipe 
 
-<table >
+<table align="center">
   <thead>
     <th>Nome</th>
     <th>GitHub</th>
