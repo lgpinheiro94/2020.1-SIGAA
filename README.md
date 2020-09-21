@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href = "">
-    <img src="/docs/assets/" width="500px"/>
+    <img src="/docs/assets/sigaa.png" width="500px"/>
   </a>
 </div>
   
