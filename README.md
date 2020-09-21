@@ -10,11 +10,7 @@
 
 ## Sobre o Projeto
 
-
----
-
-## Sobre a Aplicação
-
+Esse repositório é destinado à matéria de Interação Humano Computador da Universidade de Brasília. O projeto tem como objetivo analisar e propor melhorias na usabilidade do site SIGAA-UNB.
 
 ---
 
