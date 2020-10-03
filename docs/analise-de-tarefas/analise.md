@@ -86,10 +86,68 @@ Objetivos/operações | Problemas e recomendações |
 
 
 
+###  2.5 - Visualizar Estrutura Curricular
+Objetivos/operações | Problemas e recomendações | 
+---- | ----------- |
+0. Visualizar Estrutura Curricular 1>2| feedback:Estrutura correspondente ao curso mostrada em tela<br/>plano:Preencher o formulário da busca e selecionar a estrutura desejada |
+1. Preencher Formulario de busca da estrutura 1>2>3 | input:Formulario de busca com curso,Matriz curricular,Código.<br/>ação:emitir um lista de curriculos.<br/>plano:Acessar a página de Busca da estutura curricular,selecionar os filtros de busca e clicar no botão "buscar" |
+2. Selecionar Estrutura curricular desejada |<br/> feedback: o site irá carregar a página de com as diversas matérias que compõem o currículo<br/>plano:Selecionar a lupa correspondente ao currículo desejado |
+1.1. Acessar a página de busca da estrutura curricular1>2 | plano: Usuário logado, percorrer o cursor até a opção"Ensino" e selecionar "Consultar Estrutura Curricular <br/> feedback:Página permitindo a busca do currículo<br> input:Formulario de busca com curso,Matriz curricular,Código |
+1.2. Determinar um filtro de busca| input:Curso,Matriz Curricular,Código |
+1.3 Clicar no botão "buscar| - |
+1.1.1. Com o usuário logado percorrer o cursor até a opção "Ensino| - |
+1.1.2. - Selecionar a Opção"Consultas Gerais" e clicar em "Consultar Estrutura Curricular"| - |
+2.1. - Dentre as opções de matrizes curriculares, clicar no ícone da lupa correspondente| - |
+
+#### AHT Visualizar Estrutura Curricular
+
+<p align="center">Figura 3 - AHT Visualizar Estrutura Curricular</p>
+
+<div align="center">
+    <img  src=/>
+</div>
+<p align="center">  Fonte: Autor </p>
+
+#### CTT Visualizar Estrutura Curricular
+
+<p align="center">Figura 2 - CTT de Visualizar Estrutura Curricular</p>
+<div align="center">
+    <img  src=/>
+</div>
+<p align="center">  Fonte: Autor </p>
+
+###  2.6 - Visualizar Historico
+Objetivos/operações | Problemas e recomendações | 
+---- | ----------- |
+0. Visualizar Historico| Feedback: Documento referente ao histórico do aluno baixado<br/> Plano: Acesso ao arquivo disponibilizado pelo SIGAA  |
+1. Acesso ao arquivo de Histórico sisponibilizado pelo SIGAA 1>2 | Plano:Logado o aluno deve percorrer,na página inicial,o cursor até a opção "Ensino" e selecionar a opção "Emitir Histórico" |
+1.1.Logado o aluno deve percorrer,na página inicial,o cursor até a opção "Ensino"| - |
+1.2. - Secionar a opção "Emitir Histórico| - |
+
+
+#### AHT Visualizar Historico
+
+<p align="center">Figura 3 - AHT de Visualizar Histórico</p>
+
+<div align="center">
+    <img  src=/>
+</div>
+<p align="center">  Fonte: Autor </p>
+
+#### CTT Visualizar Historico
+
+<p align="center">Figura 2 - CTT de Visualizar Histórico</p>
+<div align="center">
+    <img  src=/>
+</div>
+<p align="center">  Fonte: Autor </p>
+
+
 ## **Histórico de revisões**
 Autor | Versão | Data(dd/mm/aaa) | Descrição 
 ---- | ----------- | ------ | ---------
 Lucas Lopes| 1.0 | 02/10/2020 | Criação do documento. <br/> Criação dos objetivos 2.1 e 2.2 e seus respectivos modelos de tarefas.
+Murilo Schiler| 1.1 | 03/10/2020 | Acréscimo no Documento. <br/> Criação dos objetivos 2.5 e 2.6 e seus respectivos modelos de tarefas.
 
 ## **Referências**
  * <p align="justify">WINCKLER, M. A. A; PIMENTA, Marcelo Soares. Análise e Modelagem de Tarefas : IHC2004 (Tutorial).  LIIHS-IRIT, Curitiba, v. 1, n. 1, p. 1-29, out./2004. Disponível em: https://www.irit.fr/~Marco.Winckler/publications/2004-IHC-tutorial.pdf. Acesso em: 2 out. 2020.</p>
