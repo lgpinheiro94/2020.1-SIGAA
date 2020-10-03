@@ -8,7 +8,7 @@ pages:
   - Metas de Usabilidade: 'metas-de-usabilidade/metas.md'
   - Lista de sites avaliados: 'sites-avaliados/sites.md' 
   - Processo de Design: 'processo-de-design/processo.md'
-
+  - Análise de tarefas: 'analise-de-tarefas/analise.md'
 extra_css: 
   - assets/css/extra.css
 theme:
