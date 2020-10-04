@@ -20,16 +20,15 @@ Felipe tem 25 anos de idade e é estudande de direito na Universidade de Brasíl
 
 ### **2. Anderson** 
 <br/>
-Anderson Lopes, secretário.<br/>
-Anderson tem 52 anos de idade e atua como chefe da secretaria na Universidade de Brasília. Anderson é responsável por monitorar e gerenciar todos os documentos dos alunos de um determinado campus. Além disso, todo novo semestre e juntamente com sua equipe, precisa fazer o controle da relação aluno/disciplina, disponibilizar o calendário acadêmico e inscrever novos alunos da universidade em seus respectivos cursos. 
-
-<br/>
+Anderson Lopes, coordenador.<br/>
+Anderson tem 52 anos de idade e é o coordenador do curso de Engenharia Automotiva na Universidade de Brasília. Anderson é responsável por acompanhar a situação acadêmica de todos os alunos do curso. Além disso, todo novo semestre, precisa fazer o controle da relação aluno/disciplina, monitorar as disiplinas ofertadas no curso, disponibilizar as turmas das disciplinas e seus respectivos horários e adicionar/remover alunos das disciplinas no período de ajuste.
 
 **Objetivos no Site** <br/>
-  * Disponibilizar documentos de cada aluno;
+  * Obter a relação de todos os alunos matrículados no curso;
+  * Obter histórico escolar de cada aluno;
   * Disponibilizar todas as disciplinas ofertadas em um determinado semestre;
-  * Disponibilizar horários e capacidades das disciplinas;
-  * Adicionar alunos em disciplinas de acordo com sua prioridades;
+  * Disponibilizar horários e capacidades das turmas;
+  * Adicionar/remover alunos em disciplinas de acordo com suas prioridades;
   * Inserir novos alunos em um determinado curso.
 
 ### **3. Clarisse**
@@ -56,6 +55,7 @@ Clarisse tem 47 anos de idade e atua como professora do curso de Engenharia de E
 ------ | ------ | --------------- | ---------
 [Kalebe Lopes](https://github.com/KalebeLopes) | 0.1 | 02/10/2020 | Criação do documento
 [Kalebe Lopes](https://github.com/KalebeLopes) | 0.2 | 02/10/2020 | Adição de referências
+[Kalebe Lopes](https://github.com/KalebeLopes) | 0.3 | 04/10/2020 | Alteraçao de persona
 
 <br/>
 
