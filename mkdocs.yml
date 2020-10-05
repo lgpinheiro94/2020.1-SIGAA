@@ -9,7 +9,8 @@ pages:
     - Questionário: 'perfil-usuario/questionario.md'
     - Entrevista: 'perfil-usuario/entrevista.md'
     - Persona: 'perfil-usuario/persona.md'
-  - Análise de tarefas: 'analise-de-tarefas/analise.md'  
+  - Análise de tarefas: 'analise-de-tarefas/analise.md'
+  - Apresentações: 'apresentacoes/apresentacoes.md'
 extra_css: 
   - assets/css/extra.css
 theme:
