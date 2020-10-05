@@ -2,13 +2,16 @@ site_name: SIGAA
 pages:
   - Home: 'index.md'
   - Planejamento: 'planejamento/planejamento.md'
+  - Análise do Perfil de Usários: 
+    - Questionário: 'perfil-usuario/questionario.md'
+    - Entrevista: 'perfil-usuario/entrevista.md'
+    - Persona: 'perfil-usuario/persona.md'
+  - Análise de tarefas: 'analise-de-tarefas/analise.md'  
   - Avaliação Heurística: 'avaliacao-heuristica/avaliacao.md'
-  - Questionario: 'Questionario/questionario.md'
   - Prototipo de Papel: 'Prototipo-de-Papel/prototipo_de_papel.md'
   - Metas de Usabilidade: 'metas-de-usabilidade/metas.md'
   - Lista de sites avaliados: 'sites-avaliados/sites.md' 
   - Processo de Design: 'processo-de-design/processo.md'
-  - Análise de tarefas: 'analise-de-tarefas/analise.md'
 extra_css: 
   - assets/css/extra.css
 theme:
