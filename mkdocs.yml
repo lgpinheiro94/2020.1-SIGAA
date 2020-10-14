@@ -10,6 +10,8 @@ pages:
     - Entrevista: 'perfil-usuario/entrevista.md'
     - Persona: 'perfil-usuario/persona.md'
   - Análise de tarefas: 'analise-de-tarefas/analise.md'
+  - Análise de requisitos:
+    - Metas de usabilidade: 'metas-de-usabilidade/metas.md'
   - Apresentações: 'apresentacoes/apresentacoes.md'
 extra_css: 
   - assets/css/extra.css
