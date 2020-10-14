@@ -1,9 +1,17 @@
 # Guia de Estilo
 
+<br>
+
+<p align="center">  
+  <img width="900px"  src="https://user-images.githubusercontent.com/44823367/96048176-9f6dab00-0e4c-11eb-97bf-f2f315e8fc33.png">   
+</p>
+
+<br>
+
 ## 1. Introdução
 
 ### 1.1. Objetivo do guia de estilo
-O objetivo do documento de guia de estilo é reunir as principais decisões de design que serão utilizadas ao longo de todo o projeto.
+O objetivo do documento de guia de estilo é reunir as principais decisões de design e definir as suas diretrizes para a comunicação verbal e visual que serão utilizadas pela equipe de design e de desenvolvimento ao longo de todo o projeto. 
 <br>
 
 ### 1.2. Organização e conteúdo do guia de estilo
@@ -17,14 +25,12 @@ O guia de estilos está estruturado com base no padrão dos principais elementos
 <br>
 
 ### 1.3. Público alvo do guia de estilos
-O guia de estilos está destinado aos colaboradores envolvidos no projeto visando facilitar a comunicação sobre o design entre eles.
+O guia de estilos está destinado principalmente aos colaboradores envolvidos no projeto, visando facilitar a comunicação entre a equipe sobre o design adotado.
 
 <br>
 
-### 1.4. Como utilizar o guia
-
-### 1.5. Como manter o guia
-O guia de estilos deve ser atualizado a medida que novas decisões de design forem adotadas e seguido conforme novas funcionalidades forem surgindo.	
+### 1.4. Como manter o guia
+O guia de estilos deve ser atualizado a medida que novas decisões de design forem adotadas e consultado conforme novas funcionalidades forem surgindo, de modo que as eventuais mudanças sigam o mesmo padrão de design preestabelecido.	
 
 ## 2. Resultado de análise
 
@@ -44,8 +50,7 @@ A primeira interação entre o usuário e o site é na página de login, onde o 
 
 Autor | Versão | Data(dd/mm/aaa) | Descrição 
 ---- | ----------- | ------ | ---------
-Kalebe Lopes | 1.0 | 14/10/2020 | Adição dos tópicos 1 e 2
-
+Kalebe Lopes| 1.0 | 14/10/2020 | Adição de tópicos teóricos e imagem 
 
 ## Referências
 
