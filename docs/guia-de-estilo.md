@@ -44,7 +44,7 @@ A primeira interação entre o usuário e o site é na página de login, onde o 
 
 Autor | Versão | Data(dd/mm/aaa) | Descrição 
 ---- | ----------- | ------ | ---------
-
+Kalebe Lopes | 1.0 | 14/10/2020 | Adição dos tópicos 1 e 2
 
 
 ## Referências
