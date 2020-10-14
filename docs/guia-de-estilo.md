@@ -249,3 +249,15 @@ visited: <p style="color: #005500">Link</p>
         </div>
     </li>
 </ul>
+
+
+## Histórico de revisões
+
+Autor | Versão | Data(dd/mm/aaa) | Descrição 
+---- | ----------- | ------ | ---------
+Wagner Martins| 1.0 | 14/10/2020 | Adição de alguns elementos de interface
+
+
+## Referências
+
+ * <p align="justify"> BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. Interação Humano computador. Elsevier. Ed. 1. 2010.
