@@ -10,6 +10,7 @@ pages:
     - Entrevista: 'perfil-usuario/entrevista.md'
     - Persona: 'perfil-usuario/persona.md'
   - Análise de tarefas: 'analise-de-tarefas/analise.md'
+  - Guia de estilo: 'guia-de-estilo.md'
   - Apresentações: 'apresentacoes/apresentacoes.md'
 extra_css: 
   - assets/css/extra.css
