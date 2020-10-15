@@ -39,7 +39,7 @@ A primeira interação entre o usuário e o site é na página de login, onde o 
 
 ## 3. Elementos de interface
 
-## 3.1. Tipografia
+### 3.1. Tipografia
 As principais fonte utilizadas no sitema são: Arial e Verdana.
 <br>
 
@@ -58,18 +58,44 @@ As principais fonte utilizadas no sitema são: Arial e Verdana.
 <br>
 
 
-## 3.2. Símbolos não tipográficos
+### 3.2. Símbolos não tipográficos
 <p align="center">  
   <img width="500px"  src="https://user-images.githubusercontent.com/44823367/96058224-114fef80-0e61-11eb-8a4b-0b84b544a4ba.png"><br>
   <img width="500px"  src="https://user-images.githubusercontent.com/44823367/96058305-36446280-0e61-11eb-9343-8f34d5a26f84.png"> 
 </p>
 
-## 3.3. Cores
+### 3.3. Cores
 O cor predominante no site é azul com diferentes tonalidades.
 <p align="center">  
   <img width="900px"  src="https://user-images.githubusercontent.com/44823367/96058554-e74afd00-0e61-11eb-861d-9068f286207f.jpeg">
 </p>
 <br>
+
+## 4. Elementos de interação
+
+### 4.1. Estilos de interação
+
+<h3>-> Formulário de autenticação (login)</h3>
+<p align="center">  
+  <img width="300px"  src="https://user-images.githubusercontent.com/44823367/96059076-5b39d500-0e63-11eb-83de-90f0d8582a4f.png"><br>
+</p>
+
+<h3>-> Menu</h3>
+<p align="center">  
+  <img width="550px"  src="https://user-images.githubusercontent.com/44823367/96059527-8ec92f00-0e64-11eb-8695-8ea4c2e162e2.png">
+  <img width="250px"  src="https://user-images.githubusercontent.com/44823367/96059245-caafc480-0e63-11eb-8050-ee647424ef86.png">
+</p>
+
+<h3>-> Formulário de cadastro e procura</h3>
+<p align="center">  
+  <img width="800px"  src="https://user-images.githubusercontent.com/44823367/96059357-1febd600-0e64-11eb-8b96-c436699d4061.png"><br>
+</p>
+
+<h3>-> Listagem</h3>
+<p align="center">  
+  <img width="800px"  src="https://user-images.githubusercontent.com/44823367/96059443-63dedb00-0e64-11eb-9385-4365ca152e90.png"><br>
+</p>
+
 
 ## Histórico de revisões
 
