@@ -10,6 +10,7 @@ pages:
     - Entrevista: 'perfil-usuario/entrevista.md'
     - Persona: 'perfil-usuario/persona.md'
   - Análise de tarefas: 'analise-de-tarefas/analise.md'
+  - Principios Gerais: 'principios-gerais.md'
   - Guia de estilo: 'guia-de-estilo.md'
   - Análise de requisitos:
     - Metas de usabilidade: 'metas-de-usabilidade/metas.md'
