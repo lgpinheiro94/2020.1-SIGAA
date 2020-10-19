@@ -1,5 +1,5 @@
 # Questionário
-<p align="justify">
+
 
 ## Introdução
 
