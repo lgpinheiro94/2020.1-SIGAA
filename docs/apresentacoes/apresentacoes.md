@@ -7,3 +7,7 @@
 ## 2 - Análise de Tarefas, Perfil de Usuário e Personas
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w2Ak7uUpdJc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 3 - Princípios Gerais, Metas de Usabilidade e Guia de Estilo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PObDwrmDFsU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
