@@ -15,6 +15,9 @@ pages:
   - Análise de requisitos:
     - Metas de usabilidade: 'metas-de-usabilidade/metas.md'
   - Apresentações: 'apresentacoes/apresentacoes.md'
+  - Planejamento de avaliação: 
+    - Planejamento avaliação do StoryBoard: 'planejamentoAvaliacao/PlStoryBoard.md'
+    - Planejamento avaliação de tarefas: 'planejamentoAvaliacao/PlHTA.md'
 extra_css: 
   - assets/css/extra.css
 theme:
